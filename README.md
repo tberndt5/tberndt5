@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tberndt5
+- 👋 Hi, I’m Tyler
 - 👀 I’m interested in embedded engineering and all types of software projects.
-- 🌱 I’m currently learning embdedded engineering.
+- 🌱 I’m currently learning game development in C++.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me tberndt5@gmail.com
 
